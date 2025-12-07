@@ -96,14 +96,6 @@ An Excel dashboard was also created, containing:
 
 ---
 
-## 📥 Project Deliverables
-- `bank_loan_db.sql`  
-- Python EDA Notebook  
-- Power BI Dashboard (`.pbix`)  
-- Excel Dashboard (`.xlsx`)  
-- README.md  
-
----
 
 ## 🎯 Summary
 This project highlights strong skills in:
