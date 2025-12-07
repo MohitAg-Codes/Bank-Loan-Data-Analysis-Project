@@ -66,17 +66,13 @@ Derived key insights such as:
 # 📊 Power BI Dashboards
 
 ## 📘 Summary Dashboard
-![Summary Dashboard](Summary.png)
+![Summary Dashboard](images/Summary.png)
 
 ## 📈 Overview Dashboard
-![Overview Dashboard](Overview.png)
+![Overview Dashboard](images/Overview.png)
 
 ## 📄 Detail Dashboard
-![Detail Dashboard](Details.png)
-
-> ⚠️ **Note:**  
-Upload your Power BI screenshots into your repo inside an `images/` folder  
-and ensure the filenames match the names above.
+![Detail Dashboard](images/Details.png)
 
 ---
 
